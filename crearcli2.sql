@@ -18,4 +18,6 @@ Insert into tcliente values ('40404040','GOMEZ GOMEZ MARIA','M','CC',TO_DATE('08
 Insert into tcliente values ('50505050','TORRES CINCO BENITO','TO','AA',TO_DATE('09/08/1998','DD/MM/YYYY'),'003',0200000);
 Insert into tcliente values ('60606060','ROLDAN GUARDIA JOSE','CC','DD',TO_DATE('01/01/1998','DD/MM/YYYY'),'001',0100000);
 Insert into tcliente values ('70707070','PINO ALTO LUISA','Z','AA',TO_DATE('12/04/1996','DD/MM/YYYY'),'001',0400000);
+Insert into tcliente values ('10101011','VALLE MAS L','HU','AA',TO_DATE('12/04/1999','DD/MM/YYYY'),'001',0100000);
+--nuevo insert
 COMMIT;

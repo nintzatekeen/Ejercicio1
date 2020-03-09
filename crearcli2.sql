@@ -1,6 +1,7 @@
 drop table tcliente;
 
 create table	tcliente
+--hola soy el coronavirus
 (dni		char(10)not null,
 nombre		varchar2(25)not null,
 provincia	char(2)not null,

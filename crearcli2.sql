@@ -2,7 +2,7 @@ drop table tcliente;
 
 create table	tcliente
 (dni		char(10)not null,
-nombre		varchar2(25)not null,
+nombre		varchar2(25) unique,
 provincia	char(2)not null,
 tipo		char(2),
 fecha_alta	date,
